@@ -1,0 +1,737 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Header Screen render Header Screen 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "alignSelf": undefined,
+      "bottom": undefined,
+      "left": undefined,
+      "position": undefined,
+      "right": undefined,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.15,
+      "shadowRadius": 3,
+      "top": undefined,
+    }
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 1,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 1,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "rgba(247, 243, 249, 1)",
+          "borderRadius": 12,
+          "elevation": 1,
+          "marginHorizontal": 10,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "disabled": true,
+          }
+        }
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flexShrink": 1,
+          }
+        }
+        testID="card"
+      >
+        <View
+          style={
+            [
+              {
+                "paddingHorizontal": 16,
+              },
+              {
+                "paddingTop": 16,
+              },
+              {
+                "borderRadius": 0,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              [
+                {
+                  "backgroundColor": "#eeeeee",
+                  "height": 195,
+                  "overflow": "hidden",
+                },
+                {
+                  "borderRadius": 12,
+                },
+                {
+                  "resizeMode": "contain",
+                },
+              ]
+            }
+          >
+            <Image
+              accessibilityIgnoresInvertColors={true}
+              source={
+                {
+                  "uri": "http://cdn-img.prettylittlething.com/9/0/a/a/90aa90903a135ee59594f47c7685aa7ef3046e44_cly8063_1.jpg?imwidth=1024",
+                }
+              }
+              style={
+                [
+                  {
+                    "flex": 1,
+                    "height": undefined,
+                    "justifyContent": "flex-end",
+                    "padding": 16,
+                    "width": undefined,
+                  },
+                  {
+                    "borderRadius": 12,
+                  },
+                ]
+              }
+            />
+          </View>
+          <Text
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 22,
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                  "lineHeight": 28,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                undefined,
+              ]
+            }
+          >
+            Black Sheet Strappy Textured Glitter Bodycon Dress
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 24,
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                  "lineHeight": 32,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                undefined,
+              ]
+            }
+          >
+            Price:10
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.25,
+                  "lineHeight": 20,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                undefined,
+              ]
+            }
+          >
+            Color:Black
+          </Text>
+        </View>
+        <View
+          index={1}
+          siblings={
+            [
+              "Card.Content",
+              "Card.Actions",
+            ]
+          }
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "padding": 8,
+              },
+              undefined,
+              {
+                "justifyContent": "flex-end",
+              },
+            ]
+          }
+          total={2}
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "alignSelf": undefined,
+                "bottom": undefined,
+                "left": undefined,
+                "position": undefined,
+                "right": undefined,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 0,
+                  "width": 0,
+                },
+                "shadowOpacity": 0,
+                "shadowRadius": 0,
+                "top": undefined,
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              style={
+                {
+                  "shadowColor": "#000",
+                  "shadowOffset": {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0,
+                  "shadowRadius": 0,
+                }
+              }
+            >
+              <View
+                collapsable={false}
+                style={
+                  {
+                    "backgroundColor": "transparent",
+                    "borderColor": "rgba(121, 116, 126, 1)",
+                    "borderRadius": 20,
+                    "borderStyle": "solid",
+                    "borderWidth": 1,
+                    "marginLeft": 8,
+                    "minWidth": 64,
+                  }
+                }
+              >
+                <View
+                  accessibilityHint="add-cart-button"
+                  accessibilityRole="button"
+                  accessibilityState={
+                    {
+                      "disabled": false,
+                    }
+                  }
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    [
+                      {
+                        "overflow": "hidden",
+                      },
+                      false,
+                      {
+                        "borderRadius": 20,
+                      },
+                    ]
+                  }
+                  testID="button"
+                >
+                  <View
+                    style={
+                      [
+                        {
+                          "alignItems": "center",
+                          "flexDirection": "row",
+                          "justifyContent": "center",
+                        },
+                        undefined,
+                      ]
+                    }
+                  >
+                    <Text
+                      numberOfLines={1}
+                      selectable={false}
+                      style={
+                        [
+                          {
+                            "color": "rgba(28, 27, 31, 1)",
+                            "fontFamily": "System",
+                            "fontSize": 14,
+                            "fontWeight": "500",
+                            "letterSpacing": 0.1,
+                            "lineHeight": 20,
+                          },
+                          {
+                            "textAlign": "left",
+                          },
+                          {
+                            "writingDirection": "ltr",
+                          },
+                          [
+                            {
+                              "marginHorizontal": 16,
+                              "marginVertical": 9,
+                              "textAlign": "center",
+                            },
+                            false,
+                            {
+                              "marginHorizontal": 24,
+                              "marginVertical": 10,
+                            },
+                            false,
+                            false,
+                            {
+                              "color": "rgba(103, 80, 164, 1)",
+                              "fontFamily": "System",
+                              "fontSize": 14,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.1,
+                              "lineHeight": 20,
+                            },
+                            undefined,
+                          ],
+                        ]
+                      }
+                    >
+                      ADD+
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`render Product Screen snapshot of product screen 1`] = `
+<View
+  collapsable={false}
+  style={
+    {
+      "alignSelf": undefined,
+      "bottom": undefined,
+      "left": undefined,
+      "position": undefined,
+      "right": undefined,
+      "shadowColor": "#000",
+      "shadowOffset": {
+        "height": 1,
+        "width": 0,
+      },
+      "shadowOpacity": 0.15,
+      "shadowRadius": 3,
+      "top": undefined,
+    }
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 1,
+          "width": 0,
+        },
+        "shadowOpacity": 0.3,
+        "shadowRadius": 1,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "rgba(247, 243, 249, 1)",
+          "borderRadius": 12,
+          "elevation": 1,
+          "marginHorizontal": 10,
+        }
+      }
+    >
+      <View
+        accessibilityState={
+          {
+            "disabled": true,
+          }
+        }
+        accessible={true}
+        focusable={false}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          {
+            "flexShrink": 1,
+          }
+        }
+        testID="card"
+      >
+        <View
+          style={
+            [
+              {
+                "paddingHorizontal": 16,
+              },
+              {
+                "paddingTop": 16,
+              },
+              {
+                "borderRadius": 0,
+              },
+            ]
+          }
+        >
+          <View
+            style={
+              [
+                {
+                  "backgroundColor": "#eeeeee",
+                  "height": 195,
+                  "overflow": "hidden",
+                },
+                {
+                  "borderRadius": 12,
+                },
+                {
+                  "resizeMode": "contain",
+                },
+              ]
+            }
+          >
+            <Image
+              accessibilityIgnoresInvertColors={true}
+              source={
+                {
+                  "uri": "http://cdn-img.prettylittlething.com/9/0/a/a/90aa90903a135ee59594f47c7685aa7ef3046e44_cly8063_1.jpg?imwidth=1024",
+                }
+              }
+              style={
+                [
+                  {
+                    "flex": 1,
+                    "height": undefined,
+                    "justifyContent": "flex-end",
+                    "padding": 16,
+                    "width": undefined,
+                  },
+                  {
+                    "borderRadius": 12,
+                  },
+                ]
+              }
+            />
+          </View>
+          <Text
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 22,
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                  "lineHeight": 28,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                undefined,
+              ]
+            }
+          >
+            Black Sheet Strappy Textured Glitter Bodycon Dress
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 24,
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                  "lineHeight": 32,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                undefined,
+              ]
+            }
+          >
+            Price:10
+          </Text>
+          <Text
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 14,
+                  "fontWeight": "400",
+                  "letterSpacing": 0.25,
+                  "lineHeight": 20,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                undefined,
+              ]
+            }
+          >
+            Color:Black
+          </Text>
+        </View>
+        <View
+          index={1}
+          siblings={
+            [
+              "Card.Content",
+              "Card.Actions",
+            ]
+          }
+          style={
+            [
+              {
+                "alignItems": "center",
+                "flexDirection": "row",
+                "padding": 8,
+              },
+              undefined,
+              {
+                "justifyContent": "flex-end",
+              },
+            ]
+          }
+          total={2}
+        >
+          <View
+            collapsable={false}
+            style={
+              {
+                "alignSelf": undefined,
+                "bottom": undefined,
+                "left": undefined,
+                "position": undefined,
+                "right": undefined,
+                "shadowColor": "#000",
+                "shadowOffset": {
+                  "height": 0,
+                  "width": 0,
+                },
+                "shadowOpacity": 0,
+                "shadowRadius": 0,
+                "top": undefined,
+              }
+            }
+          >
+            <View
+              collapsable={false}
+              style={
+                {
+                  "shadowColor": "#000",
+                  "shadowOffset": {
+                    "height": 0,
+                    "width": 0,
+                  },
+                  "shadowOpacity": 0,
+                  "shadowRadius": 0,
+                }
+              }
+            >
+              <View
+                collapsable={false}
+                style={
+                  {
+                    "backgroundColor": "transparent",
+                    "borderColor": "rgba(121, 116, 126, 1)",
+                    "borderRadius": 20,
+                    "borderStyle": "solid",
+                    "borderWidth": 1,
+                    "marginLeft": 8,
+                    "minWidth": 64,
+                  }
+                }
+              >
+                <View
+                  accessibilityHint="add-cart-button"
+                  accessibilityRole="button"
+                  accessibilityState={
+                    {
+                      "disabled": false,
+                    }
+                  }
+                  accessible={true}
+                  collapsable={false}
+                  focusable={true}
+                  onBlur={[Function]}
+                  onClick={[Function]}
+                  onFocus={[Function]}
+                  onResponderGrant={[Function]}
+                  onResponderMove={[Function]}
+                  onResponderRelease={[Function]}
+                  onResponderTerminate={[Function]}
+                  onResponderTerminationRequest={[Function]}
+                  onStartShouldSetResponder={[Function]}
+                  style={
+                    [
+                      {
+                        "overflow": "hidden",
+                      },
+                      false,
+                      {
+                        "borderRadius": 20,
+                      },
+                    ]
+                  }
+                  testID="button"
+                >
+                  <View
+                    style={
+                      [
+                        {
+                          "alignItems": "center",
+                          "flexDirection": "row",
+                          "justifyContent": "center",
+                        },
+                        undefined,
+                      ]
+                    }
+                  >
+                    <Text
+                      numberOfLines={1}
+                      selectable={false}
+                      style={
+                        [
+                          {
+                            "color": "rgba(28, 27, 31, 1)",
+                            "fontFamily": "System",
+                            "fontSize": 14,
+                            "fontWeight": "500",
+                            "letterSpacing": 0.1,
+                            "lineHeight": 20,
+                          },
+                          {
+                            "textAlign": "left",
+                          },
+                          {
+                            "writingDirection": "ltr",
+                          },
+                          [
+                            {
+                              "marginHorizontal": 16,
+                              "marginVertical": 9,
+                              "textAlign": "center",
+                            },
+                            false,
+                            {
+                              "marginHorizontal": 24,
+                              "marginVertical": 10,
+                            },
+                            false,
+                            false,
+                            {
+                              "color": "rgba(103, 80, 164, 1)",
+                              "fontFamily": "System",
+                              "fontSize": 14,
+                              "fontWeight": "500",
+                              "letterSpacing": 0.1,
+                              "lineHeight": 20,
+                            },
+                            undefined,
+                          ],
+                        ]
+                      }
+                    >
+                      ADD+
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

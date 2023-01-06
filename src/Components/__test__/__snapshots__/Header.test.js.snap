@@ -1,0 +1,341 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render Header Screen 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "rgba(255, 251, 254, 1)",
+        "elevation": 0,
+        "paddingHorizontal": 0,
+        "paddingTop": 0,
+        "zIndex": 0,
+      },
+      {},
+    ]
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "alignSelf": undefined,
+        "bottom": undefined,
+        "left": undefined,
+        "position": undefined,
+        "right": undefined,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0,
+        "shadowRadius": 0,
+        "top": undefined,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "shadowColor": "#000",
+          "shadowOffset": {
+            "height": 0,
+            "width": 0,
+          },
+          "shadowOpacity": 0,
+          "shadowRadius": 0,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "rgba(255, 251, 254, 1)",
+            "flexDirection": "row",
+            "height": 64,
+            "paddingBottom": undefined,
+            "paddingHorizontal": 4,
+            "paddingLeft": undefined,
+            "paddingRight": undefined,
+            "paddingTop": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": 52,
+            }
+          }
+        />
+        <View
+          accessibilityRole="button"
+          accessibilityState={
+            {
+              "disabled": true,
+            }
+          }
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          pointerEvents="box-none"
+          style={
+            [
+              {
+                "flex": 1,
+                "paddingHorizontal": 12,
+              },
+              {
+                "paddingHorizontal": 0,
+              },
+              [
+                false,
+                {
+                  "alignItems": "center",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          <Text
+            accessibilityRole="header"
+            accessible={true}
+            numberOfLines={1}
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 22,
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                  "lineHeight": 28,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "color": "rgba(28, 27, 31, 1)",
+                    "fontFamily": "System",
+                    "fontSize": 22,
+                    "fontWeight": "400",
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  false,
+                  undefined,
+                ],
+              ]
+            }
+          >
+            Products
+          </Text>
+        </View>
+        <View>
+          <View
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Text />
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`render Header Screen render Header Screen 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "rgba(255, 251, 254, 1)",
+        "elevation": 0,
+        "paddingHorizontal": 0,
+        "paddingTop": 0,
+        "zIndex": 0,
+      },
+      {},
+    ]
+  }
+>
+  <View
+    collapsable={false}
+    style={
+      {
+        "alignSelf": undefined,
+        "bottom": undefined,
+        "left": undefined,
+        "position": undefined,
+        "right": undefined,
+        "shadowColor": "#000",
+        "shadowOffset": {
+          "height": 0,
+          "width": 0,
+        },
+        "shadowOpacity": 0,
+        "shadowRadius": 0,
+        "top": undefined,
+      }
+    }
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "shadowColor": "#000",
+          "shadowOffset": {
+            "height": 0,
+            "width": 0,
+          },
+          "shadowOpacity": 0,
+          "shadowRadius": 0,
+        }
+      }
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "alignItems": "center",
+            "backgroundColor": "rgba(255, 251, 254, 1)",
+            "flexDirection": "row",
+            "height": 64,
+            "paddingBottom": undefined,
+            "paddingHorizontal": 4,
+            "paddingLeft": undefined,
+            "paddingRight": undefined,
+            "paddingTop": undefined,
+          }
+        }
+      >
+        <View
+          style={
+            {
+              "width": 52,
+            }
+          }
+        />
+        <View
+          accessibilityRole="button"
+          accessibilityState={
+            {
+              "disabled": true,
+            }
+          }
+          accessible={true}
+          focusable={false}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          pointerEvents="box-none"
+          style={
+            [
+              {
+                "flex": 1,
+                "paddingHorizontal": 12,
+              },
+              {
+                "paddingHorizontal": 0,
+              },
+              [
+                false,
+                {
+                  "alignItems": "center",
+                },
+                undefined,
+              ],
+            ]
+          }
+        >
+          <Text
+            accessibilityRole="header"
+            accessible={true}
+            numberOfLines={1}
+            style={
+              [
+                {
+                  "color": "rgba(28, 27, 31, 1)",
+                  "fontFamily": "System",
+                  "fontSize": 22,
+                  "fontWeight": "400",
+                  "letterSpacing": 0,
+                  "lineHeight": 28,
+                },
+                {
+                  "textAlign": "left",
+                },
+                {
+                  "writingDirection": "ltr",
+                },
+                [
+                  {
+                    "color": "rgba(28, 27, 31, 1)",
+                    "fontFamily": "System",
+                    "fontSize": 22,
+                    "fontWeight": "400",
+                    "letterSpacing": 0,
+                    "lineHeight": 28,
+                  },
+                  false,
+                  undefined,
+                ],
+              ]
+            }
+          >
+            Products
+          </Text>
+        </View>
+        <View>
+          <View
+            accessible={true}
+            collapsable={false}
+            focusable={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onFocus={[Function]}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+          >
+            <Text />
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;
